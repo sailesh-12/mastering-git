@@ -1,5 +1,4 @@
-console.log("Hello ");
-console.log("Hi");
-console.log("Newly Updated");
-
-console.log("Hii");
+setTimeout(()=>{
+    console.log("Hi");
+    
+},2000);
